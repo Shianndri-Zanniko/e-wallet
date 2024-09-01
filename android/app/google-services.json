@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848570536552",
+    "project_id": "ewallet-eb2ed",
+    "storage_bucket": "ewallet-eb2ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848570536552:android:2c4317f9dd0f286de561dd",
+        "android_client_info": {
+          "package_name": "com.example.ewallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtAK7l89KqiqTnquIga3BL4ydowQYsETo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
