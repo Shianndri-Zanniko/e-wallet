@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: '',
+    apiKey: 'AIzaSyDtAK7l89KqiqTnquIga3BL4ydowQYsETo',
     appId: '1:848570536552:android:2c4317f9dd0f286de561dd',
     messagingSenderId: '848570536552',
     projectId: 'ewallet-eb2ed',
