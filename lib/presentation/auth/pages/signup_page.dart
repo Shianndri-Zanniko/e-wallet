@@ -177,6 +177,7 @@ class SignupPage extends StatelessWidget {
         children: [
           const TextSpan(
             text: "Already have an account? ",
+            style: TextStyle(color: Colors.white),
           ),
           TextSpan(
             text: "Log in",
@@ -184,7 +185,8 @@ class SignupPage extends StatelessWidget {
               Navigator.pushReplacementNamed(context, '/signin');
             },
             style: const TextStyle(
-              fontWeight: FontWeight.bold
+              fontWeight: FontWeight.bold,
+              color: Colors.white
             )
           )
         ]
